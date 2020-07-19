@@ -1,3 +1,3 @@
 # ImageAnalyser
 
-<h2>Installation
+<h2><ins>Installation</ins>
